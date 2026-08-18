@@ -1,0 +1,8 @@
+{
+  "name": "inventory-alert-restock-agent",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "timezone": "Asia/Karachi"
+  }
+}
